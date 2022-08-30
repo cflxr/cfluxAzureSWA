@@ -3,9 +3,11 @@
 }
 
 .top-row {
-    height: 3.5rem;
+    height: 4rem;
     /* background-color: rgba(0,0,0,0.4);*/
-    background-image: url('cflux-logo_full.png');
+    background-image: url('O365-Banner-CFLUX_Logo-180x40.png');
+    background-repeat: no-repeat;
+    padding: .5rem 1rem;
 }
 
 .navbar-brand {
