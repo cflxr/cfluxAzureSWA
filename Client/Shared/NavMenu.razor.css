@@ -5,7 +5,8 @@
 .top-row {
     height: 4rem;
     /* background-color: rgba(0,0,0,0.4);*/
-    background-image: url('O365-Banner-CFLUX_Logo-180x40.png');
+    margin: 5px;
+    background-image: url('CFLUX-logo_210x57.png');
     background-repeat: no-repeat;
     padding: .5rem 1rem;
 }
