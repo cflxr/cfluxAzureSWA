@@ -6,9 +6,9 @@
     height: 4rem;
     /* background-color: rgba(0,0,0,0.4);*/
     margin: 5px;
-    background-image: url('CFLUX-logo_210x57.png');
+    background-image: url('../wwwroot/CFLUX-logo_full.png');
     background-repeat: no-repeat;
-    padding: .5rem 1rem;
+    padding: 1.5rem 2rem;
 }
 
 .navbar-brand {
